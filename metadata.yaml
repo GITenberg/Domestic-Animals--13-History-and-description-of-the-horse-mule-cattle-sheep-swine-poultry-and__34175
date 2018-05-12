@@ -1,0 +1,32 @@
+_repo: Domestic-Animals--13-History-and-description-of-the-horse-mule-cattle-sheep-swine-poultry-and__34175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Richard Lamb
+    alias: Allen, Richard L.
+    birthdate: 1803
+    deathdate: 1869
+    gutenberg_agent_id: '36842'
+    url: http://www.gutenberg.org/2009/agents/36842
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2010-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Domestic animals'
+title: "Domestic Animals\r\nHistory and description of the horse, mule, cattle, sheep,\
+  \ swine, poultry and farm dogs; with directions for their management, breeding,\
+  \ crossing, rearing, feeding, and preparation for a profitable market; also their\
+  \ diseases and remedies. Together with full directions for the management of the\
+  \ dairy."
+url: http://www.gutenberg.org/ebooks/34175
