@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36842'
     url: http://www.gutenberg.org/2009/agents/36842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34175#Domestic-Animals--13-History-and-description-of-the-horse-mule-cattle-sheep-swine-poultry-and_
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2010-10-31'
 gutenberg_type: Text
